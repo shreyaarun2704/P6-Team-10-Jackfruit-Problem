@@ -17,9 +17,13 @@ Accuracy calculation for correct guesses
 
 #Concepts Used:
 Random Module
+
 Turtle Module
-Lists,Dictionaries,
-Control Statements,
+
+Lists,Dictionaries
+
+Control Statements
+
 Functions
 
 
